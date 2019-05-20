@@ -1,0 +1,17 @@
+C:\Users\anrm2710\Documents\Visual Studio 2015\Projects\TimeCalculator\TimeCalculator\bin\Debug\TimeCalculator.exe.config
+C:\Users\anrm2710\Documents\Visual Studio 2015\Projects\TimeCalculator\TimeCalculator\bin\Debug\TimeCalculator.exe
+C:\Users\anrm2710\Documents\Visual Studio 2015\Projects\TimeCalculator\TimeCalculator\bin\Debug\TimeCalculator.pdb
+C:\Users\anrm2710\Documents\Visual Studio 2015\Projects\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.MainForm.resources
+C:\Users\anrm2710\Documents\Visual Studio 2015\Projects\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.Properties.Resources.resources
+C:\Users\anrm2710\Documents\Visual Studio 2015\Projects\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.csproj.GenerateResource.Cache
+C:\Users\anrm2710\Documents\Visual Studio 2015\Projects\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.exe
+C:\Users\anrm2710\Documents\Visual Studio 2015\Projects\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.pdb
+C:\Users\anrm2710\Documents\Visual Studio 2017\Projects\TimeCalculator\TimeCalculator\bin\Debug\TimeCalculator.exe.config
+C:\Users\anrm2710\Documents\Visual Studio 2017\Projects\TimeCalculator\TimeCalculator\bin\Debug\TimeCalculator.exe
+C:\Users\anrm2710\Documents\Visual Studio 2017\Projects\TimeCalculator\TimeCalculator\bin\Debug\TimeCalculator.pdb
+C:\Users\anrm2710\Documents\Visual Studio 2017\Projects\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.MainForm.resources
+C:\Users\anrm2710\Documents\Visual Studio 2017\Projects\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.Properties.Resources.resources
+C:\Users\anrm2710\Documents\Visual Studio 2017\Projects\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.csproj.GenerateResource.Cache
+C:\Users\anrm2710\Documents\Visual Studio 2017\Projects\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\anrm2710\Documents\Visual Studio 2017\Projects\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.exe
+C:\Users\anrm2710\Documents\Visual Studio 2017\Projects\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.pdb
